@@ -1,10 +1,12 @@
-# 🐾 Get A Pet - Plataforma de Adoção de Animais
+# 🐾 Adote um Pet - Plataforma de Adoção de Animais
 
 <div align="center">
 
-![Get A Pet Logo](frontend/src/assets/img/logo.png)
 
 **Uma plataforma completa para adoção responsável de animais de estimação**
+
+<img width="1888" height="937" alt="image" src="https://github.com/user-attachments/assets/352d273e-ba25-4c78-9900-99cd18b5a60b" />
+
 
 [![React](https://img.shields.io/badge/React-19.1.0-blue.svg)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-Express-green.svg)](https://nodejs.org/)
@@ -15,22 +17,9 @@
 
 ---
 
-## 📋 Índice
-
-- [Sobre o Projeto](#-sobre-o-projeto)
-- [Funcionalidades](#-funcionalidades)
-- [Tecnologias Utilizadas](#-tecnologias-utilizadas)
-- [Estrutura do Projeto](#-estrutura-do-projeto)
-- [Como Executar](#-como-executar)
-- [API Endpoints](#-api-endpoints)
-- [Contribuição](#-contribuição)
-- [Licença](#-licença)
-
----
-
 ## 🎯 Sobre o Projeto
 
-O **Get A Pet** é uma plataforma web completa desenvolvida para facilitar a adoção responsável de animais de estimação. A aplicação conecta pessoas que desejam adotar um pet com aquelas que precisam encontrar um lar amoroso para seus animais.
+O **Adote um pet** é uma plataforma web completa desenvolvida para facilitar a adoção responsável de animais de estimação. A aplicação conecta pessoas que desejam adotar um pet com aquelas que precisam encontrar um lar amoroso para seus animais.
 
 ### 🎨 Características Principais
 
@@ -199,40 +188,5 @@ A aplicação estará disponível em `http://localhost:3000`
 | `PATCH` | `/pets/:id/adopt` | Adotar pet |
 
 ---
-
-## 🤝 Contribuição
-
-1. Faça um fork do projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/AmazingFeature`)
-3. Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`)
-4. Push para a branch (`git push origin feature/AmazingFeature`)
-5. Abra um Pull Request
-
-### Padrões de Código
-- Use ESLint e Prettier
-- Siga as convenções do React
-- Mantenha o código limpo e documentado
-- Teste suas funcionalidades
-
----
-
-## 📝 Licença
-
-Este projeto está sob a licença ISC. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-## 👨‍💻 Desenvolvedor
-
-**Allan** - Desenvolvedor Full Stack
-
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- LinkedIn: [Seu LinkedIn](https://linkedin.com/in/seu-perfil)
-
----
-
-<div align="center">
-
-**⭐ Se este projeto te ajudou, considere dar uma estrela!**
 
 </div> 
